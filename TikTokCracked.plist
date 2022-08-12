@@ -9,7 +9,7 @@
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
-     <string>https://cos.pgyer.com/c0b802e9c3c8fca7beaa190fb8a71993.ipa?sign=cd0a34c710c7fd5870262df324e4ac31&amp;t=1660302509&amp;response-content-disposition=attachment%3Bfilename%3DTikTok_24.4.3.ipa</string>
+     <string>https://cos.pgyer.com/11da2363a3b2110d22316d4231c1f54a.ipa?sign=266d83f1e0eb0fb1d41e6476018d892a&t=1660312391&response-content-disposition=attachment%3Bfilename%3DTikTok_24.4.3.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -24,9 +24,9 @@
    <array>
     <dict>
      <key>bundle-identifier</key>
-     <string>com.TikTok.cracked</string>
+     <string>group.com.zhiliaoapp.shared</string>
      <key>bundle-version</key>
-     <string>1.0.0</string>
+     <string>6.0</string>
      <key>kind</key>
      <string>software</string>
      <key>title</key>
