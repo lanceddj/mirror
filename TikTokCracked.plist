@@ -1,38 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
- <dict>
-  <key>items</key>
-  <dict>
-   <key>assets</key>
-   <array>
-    <dict>
-     <key>kind</key>
-     <string>software-package</string>
-     <key>url</key>
-     <string>https://cos.pgyer.com/11da2363a3b2110d22316d4231c1f54a.ipa?sign=266d83f1e0eb0fb1d41e6476018d892a&t=1660312391&response-content-disposition=attachment%3Bfilename%3DTikTok_24.4.3.ipa</string>
-    </dict>
-    <dict>
-     <key>kind</key>
-     <string>display-image</string>
-     <key>need-shine</key>
-     <integer>0</integer>
-     <key>url</key>
-     <string>https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-common-sg/mtact/static/images/logo_144c91a.png</string>
-    </dict>
-   </array>
-   <key>metadata</key>
-   <array>
-    <dict>
-     <key>bundle-identifier</key>
-     <string>group.com.zhiliaoapp.shared</string>
-     <key>bundle-version</key>
-     <string>6.0</string>
-     <key>kind</key>
-     <string>software</string>
-     <key>title</key>
-     <string>TikTokCracked</string>
-    </dict>
-   </array>
-  </dict>
- </dict>
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://cos.pgyer.com/11da2363a3b2110d22316d4231c1f54a.ipa?sign=266d83f1e0eb0fb1d41e6476018d892a&t=1660312391&response-content-disposition=attachment%3Bfilename%3DTikTok_24.4.3.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>ci.nn.zw316_ShadowNoads_Ch</string>
+<key>bundle-version</key>
+<string>4.4</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>zw316_ShadowNoads_Ch</string>
+</dict>
+</dict>
+</array>
+</dict>
 </plist>
